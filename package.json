@@ -1,0 +1,17 @@
+{
+  "name": "2aqa-js-hillel-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "axios": "^1.7.2",
+    "jest": "^29.7.0",
+    "prettier": "^3.2.5"
+  },
+  "description": ""
+}
